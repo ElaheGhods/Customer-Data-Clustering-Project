@@ -1,5 +1,5 @@
 # Customer-Data-Clustering-Project
-In this project, the main object is 
+
 The main goal of this project is to use unsupervised clustering algorithms to analyze a dataset that contains information about the spending patterns of 8950 credit card holders over the last six months. Customer segmentation helps to gain a better understanding of each customer's individual needs and behaviors for choosing business and customize products and services. Companies can effectively solve the specific concerns and preferences of different customer types based on their behaviors and characteristics, by identifying distinct customer groups
 There are more explain about features:
 
